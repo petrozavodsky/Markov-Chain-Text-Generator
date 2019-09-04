@@ -1,3 +1,5 @@
+# Кажется уже работает 
+
 # Markov Chain Text Generator
 
 Takes text from a file and generates some random (but readable) text from it using a Markov chain. Bigger input text is recommended for more interesting results. Comes with an example input file that combines The Hobbit with Fifty Shades of Grey.
